@@ -20,6 +20,7 @@
 ---
 ## Verificamos todos los archivos creados por nosotros ya sea en **GitHub** o en **VSCODE**
 -Utilizamos el comando **git log**
+
 ---
 
 

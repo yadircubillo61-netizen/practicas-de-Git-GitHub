@@ -1,10 +1,37 @@
 <h1>GitHub</h1>
 
 ## Empezamos creando un** repositorio **
+
+
 ---
 ## Descrivimos sobre que trata el repositorio.
+
+
 ---
  ## Pasamos a crear el README.md.
+su objetivo es explicar de que trata el proyecto y como utilizarlo
+
+---
+
+## Creamos un **commit**
+-un **commit es como tomar una foto de tu proyecto en un momento especifico para guardarlo en el historial de tu repositorio (**GIT**)
+
+-cada commit representa un cambio hecho en el proyecto
+
+-Un commit incluye:
+
+-Los cambios hechos (qué archivos se modificaron).
+
+-Un mensaje que describe el cambio.
+
+-👉 Ejemplo de comandos en Git:
+
+# Preparar el archivo para guardarlo (stage)
+git add index.html
+
+# Guardar el cambio con un mensaje (commit)
+git commit -m "Agregué la función de suma en la calculadora"
+ 
  ---
 ```CREADO PARA AFINAR CONCEPTOS```
 

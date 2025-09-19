@@ -71,3 +71,8 @@ git commit -m "Agregué la función de suma en la calculadora"
 
 ## para subir los archivos agregados desde git utilizamos
 -El comando **git push**
+
+
+
+---
+quede en **git restore y git diff**

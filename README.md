@@ -54,5 +54,20 @@ git commit -m "Agregué la función de suma en la calculadora"
 
 ---
 
+## para verificar el estado de nuestro proyecto utilizamos
+-El comando **git status**
 
+---
 
+## para añadir un archivo que no este dentro de el sistema utilizamos 
+-El comando **git add .** o **git add+nombre**
+
+---
+
+## para realizar un commit desde git 
+-utilizamos el comando **git commit -m "aqui va el commit"**
+
+---
+
+## para subir los archivos agregados desde git utilizamos
+-El comando **git push**

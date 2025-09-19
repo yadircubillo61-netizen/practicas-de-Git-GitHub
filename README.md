@@ -26,10 +26,10 @@ su objetivo es explicar de que trata el proyecto y como utilizarlo
 
 -👉 Ejemplo de comandos en Git:
 
-# Preparar el archivo para guardarlo (stage)
+ **Preparar el archivo para guardarlo (stage)**
 git add index.html
 
-# Guardar el cambio con un mensaje (commit)
+ **Guardar el cambio con un mensaje (commit)**
 git commit -m "Agregué la función de suma en la calculadora"
  
  ---

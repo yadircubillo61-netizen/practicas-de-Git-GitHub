@@ -12,9 +12,11 @@
 
 ## Empezamos clonando el repositorio en nuestra computadora.
 -Utilizamos el comando **git clone** y pegando la url del repositorio.
+
 ---
 ## Procedimos a acceder ala carpeta del repositorio creado desde **Git**
  -Utilizamos  el comando **cd + nombre de lacarpeta**.
+ 
 ---
 ## Verificamos todos los archivos creados por nosotros ya sea en **GitHub** o en **VSCODE**
 -Utilizamos el comando **git log**

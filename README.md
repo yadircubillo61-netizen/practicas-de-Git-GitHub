@@ -16,6 +16,8 @@
 ---
 ## Procedimos a acceder ala carpeta del repositorio creado desde **Git**
  -Utilizamos  el comando **cd + nombre de lacarpeta**.
+  -si queremos salir de la carpeta resciente en la que estamos usamos el comando **cd ..**
+ 
  
 ---
 ## Verificamos todos los archivos creados por nosotros ya sea en **GitHub** o en **VSCODE**

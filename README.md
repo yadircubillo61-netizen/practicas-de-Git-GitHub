@@ -83,6 +83,10 @@ quede en **git restore y git diff**
 -Utilizamos el comando **git diff + nombre del archivo** para visualizar todos los cambios hechos
 
  -tambien odemos utilamos el comando **git show + código de la versión** 
+
+ ---
+
+ sigo en el git diff y git restore(falta compreender el uso de estos 2 comandos)
  
  -**git show HEAD** si es la versión más resiente
 

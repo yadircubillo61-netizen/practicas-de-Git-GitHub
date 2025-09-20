@@ -76,3 +76,17 @@ git commit -m "Agregué la función de suma en la calculadora"
 
 ---
 quede en **git restore y git diff**
+
+
+---
+## Una forma de visualizar los cambios que hacemos en un archivo y ver todas las modificasiones
+-Utilizamos el comando **git diff + nombre del archivo** para visualizar todos los cambios hechos
+
+ -tambien odemos utilamos el comando **git show + código de la versión** 
+ 
+ -**git show HEAD** si es la versión más resiente
+
+ ---
+
+ ## Para volver a una versión de un archivo al que le hicimos numerosos cambios como borrar un texto y devolverlo a una versión anterior
+ -utilizamos el comando **git restore --source + codigo de la versión,así podemos volver a una versión anterior de núestro proyecto
